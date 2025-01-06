@@ -1,1 +1,1 @@
-get YOLO badge
+yolo
